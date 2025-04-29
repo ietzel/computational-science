@@ -1,5 +1,5 @@
 program comp_sci
-  print *, "STEM becomes a key combination to address our complex research problems, where A computational scientist should be capable of:"
+  print *, "STEM, primarily computer science, becomes a key combination to address our complex research problems, where a computational scientist should be capable of:"
   print *, "recognizing complex problems"
   print *, "adequately conceptualizing the system containing these problems"
   print *, "designing a framework of algorithms suitable for studying this system: the simulation"
