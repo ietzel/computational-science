@@ -1,3 +1,10 @@
-distinct_noun = ""
-
-"Follow the process for", distinct_noun
+document.getElementById("p1").innerHTML = "STEM, primarily computer science, becomes a key combination to address our complex research problems, where a computational scientist should be capable of:\n";
+document.getElementById("p1").innerHTML += "recognizing complex problems";
+document.getElementById("p1").innerHTML +=  "adequately conceptualizing the system containing these problems";
+document.getElementById("p1").innerHTML +=  "designing a framework of algorithms suitable for studying this system: the simulation";
+document.getElementById("p1").innerHTML +=  "choosing a suitable computing infrastructure (parallel computing/grid computing/supercomputers)";
+document.getElementById("p1").innerHTML +=  "hereby, maximizing the computational power of the simulation";
+document.getElementById("p1").innerHTML +=  "assessing to what level the output of the simulation resembles the systems: the model is validated";
+document.getElementById("p1").innerHTML +=  "adjusting the conceptualization of the system accordingly";
+document.getElementById("p1").innerHTML +=  "repeat the cycle until a suitable level of validation is obtained: the computational scientist trusts that the simulation generates adequately realistic results for the system under the studied conditions";
+document.getElementById("p1").innerHTML += "Follow the process for a distinct_noun";
