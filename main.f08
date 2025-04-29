@@ -8,4 +8,4 @@ program comp_sci
   print *, "assessing to what level the output of the simulation resembles the systems: the model is validated"
   print *, "adjusting the conceptualization of the system accordingly"
   print *, "repeat the cycle until a suitable level of validation is obtained: the computational scientist trusts that the simulation generates adequately realistic results for the system under the studied conditions"
-end comp_sci
+end program comp_sci
